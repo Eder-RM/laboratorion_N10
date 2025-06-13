@@ -2,8 +2,7 @@
 
 ## 1. Propósito del Laboratorio: ¿Qué se buscó resolver?
 
-El principal problema que se abordó en este laboratorio fue cómo **optimizar el proceso de desarrollo de software** para hacerlo más rápido, económico y fiable. En la industria, construir cada aplicación desde cero es ineficiente y propenso a errores. Por lo tanto, el objetivo central fue explorar y aplicar de manera práctica los principios de la **reutilización de software**.
-
+El principal
 Se buscó demostrar que, al emplear componentes, arquitecturas y productos ya existentes y probados, es posible construir sistemas complejos de alta calidad en una fracción del tiempo. El caso práctico fue el desarrollo de un **API para un Sistema de Gestión de Evidencias Forenses**.
 
 ## 2. Objetivos Específicos
